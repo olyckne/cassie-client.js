@@ -1,0 +1,19 @@
+{
+	"name": "olyckne/cassie-client.js",
+	"description": "A lovely little JavaScript client for the lovely little chatbot Cassie.",
+	"keywords": ["socket", "js", "chatbot"],
+	"homepage": "https://github.com/olyckne/cassie-client.js",
+	"authors": [
+		{
+			"name":	"Mattias Lyckne",
+			"homepage": "http://mattiaslyckne.se"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/olyckne/cassie-client.js/issues",
+		"source": "https://github.com/olyckne/cassie-client.js"
+	},
+	"require": {
+		"components/jquery": "~1.8.0"
+	}
+}
