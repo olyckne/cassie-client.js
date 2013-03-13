@@ -13,6 +13,12 @@ A lovely little JavaScript client for the lovely little chatbot Cassie.
 cassie_client = new Cassie_client(options);
 cassie_client.init();
 ```
+and it will magically work, binding to the html form, output received message to outputElem etc.
+You can also send messages with:
+
+```javascript
+cassie_client.send(msg)
+```
 
 ### Options
 
